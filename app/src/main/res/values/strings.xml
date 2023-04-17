@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APKTugasPraktikum3</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="umur">Umur</string>
+
+</resources>
